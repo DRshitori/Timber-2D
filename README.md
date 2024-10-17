@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4f679bec-3cc0-4cff-ab20-e7016a377a15)# Timber Game Recreation
+# Timber Game Recreation
 
 This project is a modern C++ recreation of the classic 2D game **Timber**, incorporating all essential dynamics and features. The game simulates the fast-paced action of chopping down trees while avoiding collisions with falling branches. It showcases skills in C++ programming, object-oriented design, and game development.
 
@@ -36,13 +36,11 @@ This project is a modern C++ recreation of the classic 2D game **Timber**, incor
 
 Here are some screenshots showcasing the Timber game:
 
-<p align="center">
-    <img src="![image](https://github.com/user-attachments/assets/dd252d09-3ecd-4e02-b02c-ab946334cb36)" alt="Screenshot 1" width="400"/>
-    <img src="images/screenshot2.png" alt="Screenshot 2" width="400"/>
-</p>
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/f7ae7dc3-23d4-4c24-8955-8618330f3680" alt="Screenshot 1" style="width: 80%; max-width: 600px; margin: 10px auto; display: block;">
+    <img src="https://github.com/user-attachments/assets/6e7009bd-d1a0-41a8-a152-709d72012457" alt="Screenshot 2" style="width: 80%; max-width: 600px; margin: 10px auto; display: block;">
+    <img src="https://github.com/user-attachments/assets/f28a1adb-5297-4b7c-84a0-c9e255981b8c" alt="Screenshot 3" style="width: 80%; max-width: 600px; margin: 10px auto; display: block;">
+</div>
 
-<p align="center">
-    <img src="images/screenshot3.png" alt="Screenshot 3" width="400"/>
-    <img src="images/screenshot4.png" alt="Screenshot 4" width="400"/>
-</p>
+
 
