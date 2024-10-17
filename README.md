@@ -1,4 +1,4 @@
-# Timber Game Recreation
+![image](https://github.com/user-attachments/assets/4f679bec-3cc0-4cff-ab20-e7016a377a15)# Timber Game Recreation
 
 This project is a modern C++ recreation of the classic 2D game **Timber**, incorporating all essential dynamics and features. The game simulates the fast-paced action of chopping down trees while avoiding collisions with falling branches. It showcases skills in C++ programming, object-oriented design, and game development.
 
@@ -37,7 +37,7 @@ This project is a modern C++ recreation of the classic 2D game **Timber**, incor
 Here are some screenshots showcasing the Timber game:
 
 <p align="center">
-    <img src="images/screenshot1.png" alt="Screenshot 1" width="400"/>
+    <img src="![image](https://github.com/user-attachments/assets/dd252d09-3ecd-4e02-b02c-ab946334cb36)" alt="Screenshot 1" width="400"/>
     <img src="images/screenshot2.png" alt="Screenshot 2" width="400"/>
 </p>
 
